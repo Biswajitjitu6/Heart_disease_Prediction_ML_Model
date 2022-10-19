@@ -1,10 +1,10 @@
 # Comparisons of different machine learning algorithms predicting whether someone has heart disease from 14 biological attributes.
 
 ## The maximum accuracy is 90%, achieved using the Random Forest classifier algorithm
-Biological Features
+### Biological Features
 Features used for training machine learning models on, including the special binary class label target, describing whether heart disease was detected.
 
-  ### - age: Age in years
+  1.age: Age in years
 
   2.ca: Number of major blood vessels (0-3)
 
@@ -59,20 +59,20 @@ Features used for training machine learning models on, including the special bin
 
   14.trestbps: Resting blood pressure (in mmHg on admission to the hospital)
 
-Data Preprocessing
--The following data preprocessing methods are used
--A correlation matrix and histograms of the distributions of attributes are also generated.
+### Data Preprocessing
+_The following data preprocessing methods are used_
+- A correlation matrix and histograms of the distributions of attributes are also generated.
 
-Machine Learning Algorithms
-The machine learning algorithms used
+###_Machine Learning Algorithms
 
-1. Logistic Regression (Scikit-learn)
-2. Naive Bayes (Scikit-learn)
-3. Support Vector Machine (Linear) (Scikit-learn)
-4. K-Nearest Neighbours (Scikit-learn)
-5. Decision Tree (Scikit-learn)
-6. Random Forest (Scikit-learn)
-7. XGBoost (Scikit-learn)
+
+1. - Logistic Regression (Scikit-learn)
+2. - Naive Bayes (Scikit-learn)
+3. - Support Vector Machine (Linear) (Scikit-learn)
+4. - K-Nearest Neighbours (Scikit-learn)
+5. - Decision Tree (Scikit-learn)
+6. - Random Forest (Scikit-learn)
+7. - XGBoost (Scikit-learn)
 
 Best Accuracy: 90% (Random Forest)
 
