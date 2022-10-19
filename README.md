@@ -63,7 +63,7 @@ Features used for training machine learning models on, including the special bin
 _The following data preprocessing methods are used_
 - A correlation matrix and histograms of the distributions of attributes are also generated.
 
-###_Machine Learning Algorithms
+### Machine Learning Algorithms
 
 
  - Logistic Regression (Scikit-learn)
