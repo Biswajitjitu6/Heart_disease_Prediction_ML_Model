@@ -4,13 +4,13 @@
 Biological Features
 Features used for training machine learning models on, including the special binary class label target, describing whether heart disease was detected.
 
-1.age: Age in years
+  ### age: Age in years
 
-2.ca: Number of major blood vessels (0-3)
+  2.ca: Number of major blood vessels (0-3)
 
-3.chol: Serum cholestrol in mg/dl
+  3.chol: Serum cholestrol in mg/dl
 
-4.cp: Chest pain type
+  4.cp: Chest pain type
 
   - Value 1: Typical angina
   
