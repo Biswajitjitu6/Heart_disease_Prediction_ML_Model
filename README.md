@@ -1,6 +1,6 @@
 # Comparisons of different machine learning algorithms predicting whether someone has heart disease from 14 biological attributes.
 
-The maximum accuracy is 90%, achieved using the Random Forest classifier algorithm
+## The maximum accuracy is 90%, achieved using the Random Forest classifier algorithm
 Biological Features
 Features used for training machine learning models on, including the special binary class label target, describing whether heart disease was detected.
 
