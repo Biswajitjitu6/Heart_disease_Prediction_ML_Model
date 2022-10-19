@@ -4,7 +4,7 @@
 Biological Features
 Features used for training machine learning models on, including the special binary class label target, describing whether heart disease was detected.
 
-  ### age: Age in years
+  ### - age: Age in years
 
   2.ca: Number of major blood vessels (0-3)
 
