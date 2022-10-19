@@ -1,4 +1,4 @@
-Comparisons of different machine learning algorithms predicting whether someone has heart disease from 14 biological attributes.
+# Comparisons of different machine learning algorithms predicting whether someone has heart disease from 14 biological attributes.
 
 The maximum accuracy is 90%, achieved using the Random Forest classifier algorithm
 Biological Features
