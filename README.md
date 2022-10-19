@@ -66,13 +66,13 @@ _The following data preprocessing methods are used_
 ###_Machine Learning Algorithms
 
 
-1. - Logistic Regression (Scikit-learn)
-2. - Naive Bayes (Scikit-learn)
-3. - Support Vector Machine (Linear) (Scikit-learn)
-4. - K-Nearest Neighbours (Scikit-learn)
-5. - Decision Tree (Scikit-learn)
-6. - Random Forest (Scikit-learn)
-7. - XGBoost (Scikit-learn)
+ - Logistic Regression (Scikit-learn)
+ - Naive Bayes (Scikit-learn)
+ - Support Vector Machine (Linear) (Scikit-learn)
+ - K-Nearest Neighbours (Scikit-learn)
+ - Decision Tree (Scikit-learn)
+ - Random Forest (Scikit-learn)
+ - XGBoost (Scikit-learn)
 
 Best Accuracy: 90% (Random Forest)
 
