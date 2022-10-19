@@ -12,7 +12,7 @@ Features used for training machine learning models on, including the special bin
 
 4.cp: Chest pain type
 
-  -Value 1: Typical angina
+  - Value 1: Typical angina
   
   -Value 2: Atypical angina
   
